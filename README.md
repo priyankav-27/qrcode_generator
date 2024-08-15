@@ -1,6 +1,6 @@
-# Streamlit QR Code Generator
+# QR Code Generator with Streamlit
 
-This is a Streamlit application for generating QR codes. The app is styled with a dark blackish-blue background and blue buttons for a modern look.
+Welcome to the QR Code Generator application built using Streamlit! This app allows you to create QR codes quickly and easily. The user interface features a sleek, dark blackish-blue theme with eye-catching blue buttons.
 
 ## Features
 
